@@ -11,7 +11,7 @@ export function Hero(){
                 <div className="bg-white rounded-lg">
                     <div className="flex w-full max-w-sm items-center space-x-2 pb-1 py-1 pr-1 lg:max-w-screen-sm px-1">
                         <Input type="email" placeholder="Email" />
-                        <Button className="bg-yellow-300 text-black font-medium">Notify Me</Button>
+                        <Button className="bg-blue-400 text-black font-medium">Notify Me</Button>
                     </div>
                 </div>
             </div>
