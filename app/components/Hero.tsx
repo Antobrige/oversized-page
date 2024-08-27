@@ -15,7 +15,7 @@ export function Hero() {
         <div className="bg-white rounded-lg mx-auto max-w-lg">
           <div className="flex w-full items-center space-x-2 pb-1 py-1 pr-1 px-1">
             <Input type="email" placeholder="Email" className="flex-1" />
-            <Button className="bg-[#FFF55] text-black font-medium">Notify Me</Button>
+            <Button className="bg-yellow-300 text-black font-medium hover:bg-yellow-500">Notify Me</Button>
           </div>
         </div>
       </div>
