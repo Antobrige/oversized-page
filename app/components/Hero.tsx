@@ -18,6 +18,11 @@ export function Hero() {
             <Button className="bg-yellow-500 text-black font-medium hover:border-r-black">Notify Me</Button>
           </div>
         </div>
+        <div className="flex justify-center mt-4">
+          <button className="bg-blue-500 text-white font-medium px-4 py-2 rounded-md">
+            Learn More
+          </button>
+        </div>
       </div>
     </div>
   );
